@@ -1,23 +1,41 @@
-# React + Vite + TailwindCSS
+# Landing Page | D'Tudo Varejo
 
-To test this application redirect to:
-[D’Tudo Varejo Landing Page](https://D’Tudo Varejo-landing-page-static.netlify.app/)
+Landing page desenvolvida para a **D'Tudo Varejo**, uma loja de varejo com foco em produtos para casa, obra, reforma, utilidades, ferramentas, tintas, materiais elétricos e muito mais.
 
-![D’Tudo Varejo Landing Page](https://github.com/SharathHebbar/D’Tudo Varejo-landing-page/blob/main/temp/1.png)
+O projeto foi criado com foco em apresentação comercial, responsividade e conversão para contato via WhatsApp.
 
-Steps to run:
-- git clone https://github.com/SharathHebbar/D’Tudo Varejo-landing-page.git
-- npm run dev
-- Navigate to http://localhost:5173/
+## 🔗 Site
 
-Steps to create a new project:
-- npm create vite@latest my-project -- --template react
-- cd my-project
+https://dtudovarejo.com
 
-- npm install -D tailwindcss postcss autoprefixer
-- npx tailwindcss init -p
+## 🚀 Tecnologias utilizadas
 
-- npm run dev
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
+- JavaScript
 
-For Documentation refer:
-[Docs](https://tailwindcss.com/docs/guides/vite)
+## 📌 Funcionalidades
+
+- Layout responsivo para desktop, tablet e celular
+- Hero section com destaque visual
+- Vitrine de produtos
+- Botões de contato via WhatsApp
+- Seções comerciais para apresentação da loja
+- Animações e microinterações
+- Deploy com domínio próprio
+
+## 🎯 Objetivo do projeto
+
+Criar uma landing page moderna, profissional e direta para fortalecer a presença digital da D'Tudo Varejo e facilitar o contato dos clientes por meio do WhatsApp.
+
+## 📷 Prévia
+
+![Preview do projeto](./src/assets/images/logo.png)
+
+## 📁 Como rodar localmente
+
+```bash
+npm install
+npm run dev
