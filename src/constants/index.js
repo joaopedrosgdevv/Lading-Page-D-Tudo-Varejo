@@ -17,7 +17,7 @@ import {
   customer2,
 } from "../assets/images"
 
-export const whatsappLink = "https://wa.me/5585992796703"
+export const whatsappLink = "https://wa.me/5585992896703"
 
 export const navLinks = [
     { href: "#home", label: "Início" },
